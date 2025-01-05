@@ -1,0 +1,7 @@
+@article{REPO362,
+    author = "Fujimoto, Scott and Chang, Wei-Di and Smith, Edward and Gu, Shixiang Shane and Precup, Doina and Meger, David",
+    journal = "Advances in Neural Information Processing Systems",
+    title = "{For sale: State-action representation learning for deep reinforcement learning}",
+    volume = "36",
+    year = "2023"
+}
